@@ -3,6 +3,10 @@
 ## 🌟 Project Overview
 Inspired by the Leitner system, this app helps users optimize their learning process by intelligently managing flashcard review intervals.
 
+## Live Demo
+Frontend: https://flashcard-quiz-learning.netlify.app/
+Backend: https://flashcardquiz-1je0.onrender.com
+
 ## 🚀 Tech Stack and Architecture
 
 ### Frontend
