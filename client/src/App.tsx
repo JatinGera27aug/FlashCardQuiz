@@ -110,7 +110,7 @@ function App() {
     <div className="min-h-screen bg-white dark:bg-gray-900 transition-colors duration-300 flex flex-col">
       <div className="container mx-auto px-4 py-8 flex-grow">
         <div className="flex justify-between items-center mb-8">
-          <h1 className="text-3xl font-bold text-gray-800 dark:text-white">
+          <h1 className="text-4xl font-extrabold bg-gradient-to-r from-indigo-600 to-purple-600 text-transparent bg-clip-text">
             Flashcard Review
           </h1>
           
